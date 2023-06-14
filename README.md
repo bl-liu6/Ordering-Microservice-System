@@ -1,7 +1,7 @@
 # Spring Boot Microservices
-This repository contains the latest source code of the spring-boot-microservices tutorial
-
-You can watch the tutorial on Youtube here - https://www.youtube.com/watch?v=mPPhcU7oWDU&t=20634s
+This is a Spring Boot microservices system built to users to order products and get notifications.
+## Architecture
+<img width="1621" alt="image" src="https://github.com/bl-liu6/Ordering-Microservice-System/assets/111820499/e286b67e-bc78-4a54-9a6c-b3f457dce489">
 
 ## How to run the application using Docker
 
